@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "rafaabou",
+  "repo": "container-shlximq",
+  "name": "rafaabou",
+}
